@@ -45,6 +45,7 @@ Files Included <br>
 4. wallet_risk_features.csv – Final feature set with risk scores<br>
 5. compound_filter_and_features.py – Feature engineering pipeline<br>
 6. wallet_risk_scores.csv- The final file with the wallets and their risk scores
+Refer to the analysis.md for any detailed explanation. 
 
 👤 Author
 Diya Goswami
